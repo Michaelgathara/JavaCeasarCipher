@@ -17,9 +17,6 @@ public class ceaser {
             if(!after.isEmpty()) {
                 after += "";
             }
-            if(!afterWord.isEmpty()) {
-                afterWord += "";
-            }
             int pos = (int)ltr - (int)'a' + 1;
             if(pos == -64) {
                 afterWord += " ";
