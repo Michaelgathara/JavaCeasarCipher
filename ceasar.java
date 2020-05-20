@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ceaser {
+public class ceasar {
     final public static Scanner keyboard = new Scanner(System.in);
     public static void main(String[] args) {
         System.out.println("Enter word(s) you would like to cipher: ");
