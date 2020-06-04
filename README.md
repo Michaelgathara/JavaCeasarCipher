@@ -1,5 +1,10 @@
 # JavaCeaserCipher
 A simple Ceaser Cipher encoder written in Java
+
+![Github Issues: ](https://img.shields.io/github/issues/Michaelgathara/PythonCeasarCipher)  
+
+![Github Lincese: ](https://img.shields.io/github/license/Michaelgathara/PythonCeasarCipher)  
+
 ## Table of contents
 * [What is it?](#what-is-it)
 * [How to use](#how-to-use)
